@@ -14,7 +14,7 @@ export default defineConfig({
       logo: {
         src: "./src/assets/nn-logo-mob.png",
       },
-      title: "Nuanom Guides & Docs",
+      title: "Nuanom Guides",
       social: {
         email: "https://nuanom.com/support",
       },
