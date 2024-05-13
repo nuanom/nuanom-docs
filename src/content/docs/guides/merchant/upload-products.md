@@ -1,5 +1,5 @@
 ---
-title: How to upload products with the Nuanom app
+title: Upload your shop's products
 description: The first step to managing your Nuanom shop.
 ---
 
@@ -30,7 +30,7 @@ images for each variation when they switch the choice on the product listing. Ta
 
 ![Product variant images](../../../../assets/product-variant-images.jpeg)
 
-## Price and availability listings
+## Price and availability
 
 Add prices and quantities of the actual products you have in stock. Let's say you have a product with various color variations like red, black and white.
 The red version of this product will have a separate price and quantity from the other colors. Add prices and quantities for all available variations of your product.

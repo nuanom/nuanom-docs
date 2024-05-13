@@ -43,6 +43,18 @@ export default defineConfig({
 						{
 							label: 'Departments & Categories',
 							link: '/guides/merchant/departments-categories/'
+						},
+						{
+							label: 'Sell on social media',
+							link: '/guides/merchant/sharing-links',
+						},
+						{
+							label: 'Creating orders',
+							link: '/guides/merchant/create-orders/'
+						},
+						{
+							label: 'POS',
+							link: '/guides/merchant/pos/'
 						}
 					],
 				},
