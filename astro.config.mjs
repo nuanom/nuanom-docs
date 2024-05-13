@@ -30,28 +30,22 @@ export default defineConfig({
           ],
         },
         {
-          label: "Guides",
-          items: [
-            // Each item here is one entry in the navigation menu.
-            {
-              label: "Merchant",
-              items: [
-                {
-                  label: "Intro",
-                  link: "/guides/merchant/",
-                },
-								{
-									label: 'Upload Products',
-									link: '/guides/merchant/upload-products/'
-								},
-								{
-									label: 'Departments & Categories',
-									link: '/guides/merchant/departments-categories/'
-								}
-              ],
-            },
-          ],
-        },
+					label: "Merchant",
+					items: [
+						{
+							label: "Intro",
+							link: "/guides/merchant/",
+						},
+						{
+							label: 'Upload Products',
+							link: '/guides/merchant/upload-products/'
+						},
+						{
+							label: 'Departments & Categories',
+							link: '/guides/merchant/departments-categories/'
+						}
+					],
+				},
       ],
       customCss: ["./src/tailwind.css"],
     }),
