@@ -33,7 +33,7 @@ export default defineConfig({
 					label: "Merchant",
 					items: [
 						{
-							label: "Intro",
+							label: "Introduction",
 							link: "/guides/merchant/",
 						},
 						{
@@ -49,7 +49,7 @@ export default defineConfig({
 							link: '/guides/merchant/sharing-links',
 						},
 						{
-							label: 'Creating orders',
+							label: 'Create orders',
 							link: '/guides/merchant/create-orders/'
 						},
 						{
