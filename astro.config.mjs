@@ -37,11 +37,11 @@ export default defineConfig({
 							link: "/guides/merchant/",
 						},
 						{
-							label: 'Upload Products',
+							label: 'Upload products',
 							link: '/guides/merchant/upload-products/'
 						},
 						{
-							label: 'Departments & Categories',
+							label: 'Departments and categories',
 							link: '/guides/merchant/departments-categories/'
 						},
 						{
