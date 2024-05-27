@@ -3,8 +3,7 @@ title: Merchant
 description: Supercharge your shop.
 ---
 
-These guides are for our flagship app that goes by our company name, Nuanom. Also, a subset of it will apply to the Nuanom POS app
-which is essentially a stripped down version of Nuanom focused on order management.
+These guides are for our flagship app that goes by our company name, Nuanom.
 
 - Nuanom automatically provides you with a web and/or mobile storefront.
 - Nuanom allows you to easily manage you inventory.
@@ -25,10 +24,8 @@ Nuanom is available on Android and iOS and can be used by anyone with a Ghanaian
 
 ## Mobile & MoMo
 
-Nuanom is heavily designed for Africa where most people hardly check their emails.
-However, SMS has proven to be insanely reliable for comms. We have tailored every part
+Nuanom is heavily designed for Ghana where most people hardly check their emails. We use mobile numbers instead of emails for user authentication.
+We send a one time password (OTP) via SMS making authentication very simple for users. SMS has proven to be insanely reliable for comms. We have tailored every part
 of our platform for this.
 
-This allows us to have a quick and high conversion checkout. We only accept MoMo payments.
-
-All logins use a simple mobile OTP flow.
+This allows us to have a quick and high conversion checkout. We only accept mobile money (MoMo) payments.
