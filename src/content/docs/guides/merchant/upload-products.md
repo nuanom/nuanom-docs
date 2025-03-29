@@ -7,11 +7,26 @@ Nuanom is designed to be the simplest way to manage your shop in Ghana. It does 
 
 ## Images
 
-First, you need your product's images. Investing a little time to make sure you have presentable images will improve the beauty of your listings. If your product comes in some kind of color variations you could also have images for each variation. Up to 10 images are supported.
+First, you need your product's images. Investing a little time to make sure you have presentable images will improve the beauty of your listings. If your product comes in some kind of color variations you could also have images for each variation. Up to 20 images are supported.
 
-In the Nuanom app, go the products tab, then tap the 'Create' button at the top-right to add a product. Add your images, then a name and description. Ignore 'Department/Category' for now, more on that later in this post.
+In the Nuanom app, go the products tab, then tap the 'Create' button at the top-right to add a product. Add your images. At least one image is required.
 
 ![Create products screen](../../../../assets/create-product-screen.png)
+
+## Name and Description
+
+After adding your image(s) tap on the pencil icon to add product name and description
+
+### AI generated names and descriptions
+
+You can use the `Generate with AI` buttons to generate a name and description for your product.
+
+The AI will generate a name and description based on the first image you added.
+
+<video autoplay loop muted playsinline width="720" height="720">
+  <source src="https://nuanom.com/assets/ai-descriptions_720p.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Variants
 

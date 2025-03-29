@@ -36,13 +36,13 @@ export default defineConfig({
 							label: "Introduction",
 							link: "/guides/merchant/",
 						},
+            {
+							label: 'Departments and categories',
+							link: '/guides/merchant/departments-categories/'
+						},
 						{
 							label: 'Upload products',
 							link: '/guides/merchant/upload-products/'
-						},
-						{
-							label: 'Departments and categories',
-							link: '/guides/merchant/departments-categories/'
 						},
 						{
 							label: 'Sell on social media',

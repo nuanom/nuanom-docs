@@ -5,9 +5,9 @@ description: Group your products further to help customers browsing your website
 
 ![Departments and categories](../../../../assets/departments-categories.jpeg)
 
-Nuanom provides a great way to organize your products in a nested hierarchy by Department > Category > Subcategory. Your online shop's homepage shows a preview of each category's products. Keep that in mind when creating your departments and categories.
+Nuanom provides a great way to organize your products in a nested hierarchy by Department > Category > Subcategory. 
 
-On the products tab there is a dropdown filter at the top left. The last option in the dropdown will take you to the department manager.
+On the products tab there is a dropdown filter at the top left. The last option in the dropdown will take you to the departments manager.
 
 Tap 'Add Department' button to add a department. Once you add a department you will notice an 'Add Category' button show up underneath. Add a category and you will notice an 'Add Subcategory' button show up underneath the category. You can nest many categories under a department and many subcategories under a category.
 
