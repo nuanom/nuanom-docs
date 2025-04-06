@@ -1,18 +1,22 @@
 ---
 title: Creating orders
-description: You can use nuanom to manually create orders for your customers.
+description: Use Nuanom as a POS.
 ---
 
 ![Create order and exclude product total](../../../../assets/create-order-products-price-exclude.png)
 
-Nuanom allows you to create or receive orders in any and every way, online or offline. Even though we recommend you encourage your customers to make orders via your shop's website or shared product links there are some customers who might be hard to persuade. In such cases, Nuanom makes it easy to create orders for those customers.
+Nuanom allows you to easily receive orders online. However, you can also use Nuanom to take payments offline as a POS.
 
-On the Orders tab, tap the 'Create' button. Use the 'Add products' button to add products to the order. If the customer has already made payment for the products you can toggle the 'Exclude Products' switch ON.
+To do this you create orders for your customers. Nuanom sends an SMS/email to the customer to make payment.
 
-Set the delivery option and you will instantly get an updated quote. Share this with your customer. Once the customer acknowledges, add the customer's details and create the order.
+Go to **Orders > + Create Order**. 
 
-![Order to delivery](../../../../assets/orders-to-delivery.jpeg)
+Use the 'Add products' button to add products to the order.
 
-That's it! The order will show up in the 'To Deliver' section of the 'Orders' screen. Once the product(s) have been picked and delivered use the 'Confirm Pickup' and 'Confirm Delivery' actions to update the order and notify the customer.
+You can also use the 'Collect payment' option instead of adding products to the order.
 
-Note: If you leave out the delivery option the order will be classified as an in-person order and will appear under the 'POS' tab.
+Set the delivery option if necessary. A quote will be generated. Share this with your customer. Once the customer acknowledges, add the customer's details and create the order.
+
+The customer will receive an SMS/email they can use to make payment. Once payment has been made you will get a notification and the order will be marked as COMPLETED.
+
+![Order POS section](../../../../assets/orders-pos.png)

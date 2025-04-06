@@ -14,7 +14,7 @@ export default defineConfig({
       logo: {
         src: "./src/assets/nn-logo-mob.png",
       },
-      title: "Nuanom Guides",
+      title: "Nuanom Docs",
       social: {
         email: "https://nuanom.com/support",
       },
@@ -37,6 +37,18 @@ export default defineConfig({
 							link: "/guides/merchant/",
 						},
             {
+              label: 'Shop information',
+              link: '/guides/merchant/shop-info/'
+            },
+            {
+              label: 'Delivery options',
+              link: '/guides/merchant/delivery-options/'
+            },
+            {
+              label: 'Customize your shop',
+              link: '/guides/merchant/customize-shop/'
+            },
+            {
 							label: 'Departments and categories',
 							link: '/guides/merchant/departments-categories/'
 						},
@@ -48,14 +60,14 @@ export default defineConfig({
 							label: 'Sell on social media',
 							link: '/guides/merchant/sharing-links',
 						},
+            {
+							label: 'Managing orders',
+							link: '/guides/merchant/managing-orders/'
+						},
 						{
 							label: 'Create orders',
 							link: '/guides/merchant/create-orders/'
 						},
-						{
-							label: 'POS',
-							link: '/guides/merchant/pos/'
-						}
 					],
 				},
       ],
