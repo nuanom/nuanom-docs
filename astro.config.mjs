@@ -68,6 +68,10 @@ export default defineConfig({
 							label: 'Create orders',
 							link: '/guides/merchant/create-orders/'
 						},
+            {
+              label: 'Settlement',
+              link: '/guides/merchant/settlement/'
+            }
 					],
 				},
       ],
