@@ -20,7 +20,7 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Start Here",
+          label: "Nuanom",
           items: [
             // Each item here is one entry in the navigation menu.
             {
@@ -33,7 +33,7 @@ export default defineConfig({
 					label: "Merchant",
 					items: [
 						{
-							label: "Introduction",
+							label: "Start here",
 							link: "/guides/merchant/",
 						},
             {
