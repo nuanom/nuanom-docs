@@ -15,7 +15,9 @@ However, you will need a subscription to receive orders.
 
 We offer the following subscriptions:
 
-- **PRO**: Web storefront only.
-- **PRO+**: Mobile apps and web storefronts.
+- **CORE**: Website only.
+- **MERCHANT**: Website only.
+- **PRO**: Webite only.
+- **PRO+**: Mobile apps and website.
 
 See [Pricing](https://nuanom.com/pricing) for more details.
