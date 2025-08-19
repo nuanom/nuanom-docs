@@ -14,14 +14,15 @@ Orders go through a number of stages:
 2. **NEW**: The customer has paid for the order.
 3. **PROCESSING**: The order is in a batch for processing.
 4. **COMPLETED**: The order has been packaged and dispatched/delivered. Customer receives receipt.
-5. **CANCELED**: The order has been cancelled.
+5. **DELIVERED**: Shop has confirmed delivery to the customer.
+6. **CANCELED**: The order has been canceled.
 
 
 ### DRAFT
 
 When a customer uses your website or mobile apps to create an order, the order is initially in the DRAFT state prior to payment.
 
-Customer has 3 hours to pay for the order. If payment is not made within this time, the order is automatically cancelled.
+Customer has 3 hours to pay for the order. If payment is not made within this time, the order is automatically canceled.
 
 DRAFT orders do not appear in the Nuanom app.
 
@@ -32,7 +33,7 @@ When you [manually create an order](/guides/merchant/create-orders/), the order 
 
 UNPAID orders appear in the Nuanom app under ***Orders > POS***.
 
-Customer has 3 hours to pay for the order. If payment is not made within this time, the order is automatically cancelled.
+Customer has 3 hours to pay for the order. If payment is not made within this time, the order is automatically canceled.
 
 
 ### NEW
@@ -58,9 +59,17 @@ Orders in batches or PROCESSING do not appear under ***Orders > To Deliver***.
 
 ### COMPLETED
 
-An order can be marked as COMPLETED when it has been packaged and dispatched/delivered. You can complete orders individually or in batches.
+Mark order as COMPLETED when it has been packaged and dispatched/delivered. You can complete orders individually or in batches.
 
 Customers receive a receipt via SMS/email when an order is COMPLETED.
+
+
+### DELIVERED
+
+An order is marked as DELIVERED when the shop has confirmed delivery to the customer.
+
+Customers receive a receipt via SMS/email when an order is DELIVERED.
+
 
 
 ### CANCELED

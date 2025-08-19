@@ -5,8 +5,7 @@ description: Download the Nuanom app and start selling.
 
 ## Download
 
-Nuanom is available on Android and iOS and can be used by anyone with a Ghanaian mobile number.
-However, you will need a subscription to receive orders.
+The Nuanom app is the “remote control” for your shop. Use the Nuanom app to manage and customize your storefront.
 
 - **Android**: https://play.google.com/store/apps/details?id=com.nuanom.apps.merchant
 - **iOS**: https://apps.apple.com/gh/app/nuanom/id6470391999
@@ -15,8 +14,7 @@ However, you will need a subscription to receive orders.
 
 We offer the following subscriptions:
 
-- **CORE**: Website only.
-- **MERCHANT**: Website only.
+- **STANDARD**: Website only.
 - **PRO**: Webite only.
 - **PRO+**: Mobile apps and website.
 

@@ -37,19 +37,23 @@ export default defineConfig({
 							link: "/guides/merchant/",
 						},
             {
-              label: 'Shop information',
+              label: 'Update shop info',
               link: '/guides/merchant/shop-info/'
             },
             {
-              label: 'Delivery options',
+              label: 'Set delivery options',
               link: '/guides/merchant/delivery-options/'
             },
             {
-              label: 'Customize your shop',
+              label: 'Preview storefront',
+              link: '/guides/merchant/preview-storefront/'
+            },
+            {
+              label: 'Customize shop',
               link: '/guides/merchant/customize-shop/'
             },
             {
-							label: 'Departments and categories',
+							label: 'Departments & categories',
 							link: '/guides/merchant/departments-categories/'
 						},
 						{
@@ -57,7 +61,7 @@ export default defineConfig({
 							link: '/guides/merchant/upload-products/'
 						},
 						{
-							label: 'Sell on social media',
+							label: 'Sharing products',
 							link: '/guides/merchant/sharing-links',
 						},
             {

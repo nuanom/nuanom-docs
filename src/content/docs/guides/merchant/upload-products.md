@@ -3,19 +3,21 @@ title: Upload your shop's products
 description: The first step to managing your Nuanom shop.
 ---
 
-Nuanom is designed to be the simplest way to manage your shop in Ghana. It does not matter whether you sell online or offline. However, to get the best out of Nuanom the first steps is to upload your products.
-
 ## Images
 
-First, you need your product's images. Investing a little time to make sure you have presentable images will improve the beauty of your listings. If your product comes in some kind of color variations you could also have images for each variation. Up to 20 images are supported.
+First, you need your product's images. Investing a little time to make sure you have presentable images will improve the beauty of your listings. 
 
-In the Nuanom app, go the products tab, then tap the 'Create' button at the top-right to add a product. Add your images. At least one image is required.
+If your product comes in some kind of color/size variations you could also add images for each variant. Up to 20 images are supported.
+
+In the Nuanom app, go to the **Products** tab, then tap the '+' button at the top-right to add a product. 
+
+Add your images. At least one image is required.
 
 ![Create products screen](../../../../assets/create-product-screen.png)
 
-## Name and Description
+## Name & Description
 
-After adding your image(s) tap on the pencil icon to add product name and description
+After adding your image(s) tap on the pencil icon to add product name and description.
 
 ### AI generated names and descriptions
 
@@ -30,25 +32,34 @@ The AI will generate a name and description based on the first image you added.
 
 ## Variants
 
-Now we need to add variants. Variants are the variations a product can have like color and size.
-You need to add at least one variant. Each variant can have multiple choices.
-Example a 'Color' variant can have multiple colors as choices. Add the necessary variants and choices for your product.
+Variants are the variations a product can have in color and/or size.
 
-Next, we need to add the actual prices for the available product variants.
-However, let's just save changes before we proceed. Tap the 'Done' button to create the product.
-This will add the product, however without prices the product will be marked as out of stock.
+You need to add at least one variant. Each variant can have multiple choices.
+Example a 'Color' variant can have multiple colors as choices. 
+
+Add the necessary variants and choices for the product by tapping the ‘Add’ button at the top right of the ‘Variant’ section.
 
 ![Product variants screen](../../../../assets//product-variants-screen.png)
 
+### Variant images
+
 Optionally, we can add images for each variant choice. This allows your customers to see
-images for each variation when they switch the choice on the product listing. Tap the image icon to upload variant images.
+images for each variation when they switch the choices. 
+
+Tap the image icon to upload variant images. 
+
+You need to add at least one image for each variant choice.
 
 ![Product variant images](../../../../assets/product-variant-images.jpeg)
 
 ## Price and availability
 
-Add prices and quantities of the actual products you have in stock. Let's say you have a product with various color variations like red, black and white.
-The red version of this product will have a separate price and quantity from the other colors. Add prices and quantities for all available variations of your product.
+Add prices and quantities of the actual products you have in stock. 
+
+Let's say you have a product with various color variations like red, black and white.
+The red version of this product will have a separate price and quantity from the other colors. 
+
+Add prices and quantities for all available variations of your product by tapping the ‘Add’ button at the top right of the ‘Price & Availability’ section.
 
 ![Update product screen](../../../../assets/update-product-screen.png)
 
