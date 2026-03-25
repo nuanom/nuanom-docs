@@ -1,13 +1,10 @@
-import { defineConfig, squooshImageService } from "astro/config";
+import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
 import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  image: {
-    service: squooshImageService(),
-  },
   integrations: [
     starlight({
       favicon: "/favicon.png",
@@ -15,9 +12,9 @@ export default defineConfig({
         src: "./src/assets/nn-logo-mob.png",
       },
       title: "Nuanom Docs",
-      social: {
-        email: "https://nuanom.com/support",
-      },
+      social: [
+        { icon: "email", label: "Support", href: "https://nuanom.com/support" },
+      ],
       sidebar: [
         {
           label: "Nuanom",
@@ -69,13 +66,17 @@ export default defineConfig({
 							link: '/guides/merchant/managing-orders/'
 						},
 						{
-							label: 'Create orders',
+							label: 'Creating orders',
 							link: '/guides/merchant/create-orders/'
 						},
             {
+              label: 'Managing POS devices',
+              link: '/guides/merchant/manage-pos-devices/'
+            },
+            {
               label: 'Settlement',
               link: '/guides/merchant/settlement/'
-            }
+            },
 					],
 				},
       ],

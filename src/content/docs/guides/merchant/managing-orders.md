@@ -14,8 +14,9 @@ Orders go through a number of stages:
 2. **NEW**: The customer has paid for the order.
 3. **PROCESSING**: The order is in a batch for processing.
 4. **COMPLETED**: The order has been packaged and dispatched/delivered. Customer receives receipt.
-5. **DELIVERED**: Shop has confirmed delivery to the customer.
-6. **CANCELED**: The order has been canceled.
+5. **PICKED**: Delivery rider has picked the order and it is out for delivery.
+6. **DELIVERED**: Shop or delivery guy has confirmed delivery of the order.
+7. **CANCELED**: The order has been canceled.
 
 
 ### DRAFT
@@ -87,7 +88,7 @@ You can create a batch of up to 100 orders.
 
 Batches allow you to easily delegate the packaging and dispatching of orders.
 
-Batches allow you to generate packing slips for multiple orders at the same time.
+Batches allow you to generate delivery labels and packing slips for multiple orders at the same time.
 
 
 ### Creating a batch
@@ -100,19 +101,28 @@ These orders will be marked as PROCESSING and will be hidden from the ***Orders 
 The only way to see these orders is to view packing slips or search for orders individually.
 
 You can cancel an order in a batch by searching for the order based on user's mobile/email.
-When you cancel an order in a batch the packing slips are regenerated to reflect the change.
+When you cancel an order in a batch, the packing slips are regenerated to reflect the change.
 
 
-### Packing slips
+### Delivery labels and packing slips
 
-A packing slips PDF document is generated for each batch.
+PDF assets are generated for each batch:
 
-You can view/download packing slips by selecting a batch from the ***Orders > Batches*** page.
+- Delivery labels without products (4in x 6in)
+- Delivery labels with products (4in x 6in)
+- Packing slips (A4)
+- Product quantities (A4)
+
+You can view/download assets from the ***Orders > Batches*** page.
+
+Delivery labels are designed for compatible thermal shipping label printers. 
+Nuanom sells high quality delivery label printers and stickers which can be purchased from [shop.nuanom.shop](https://shop.nuanom.shop).
+There is also an external link in the Nuanom app on the Business tab to the shop.
 
 
 ### Complete orders in batches
 
-When you are done packaging and dispatching all orders in a batch, you should complete the batch so that customers receive a receipt via SMS/email.
+When you are done packaging and dispatching all orders in a batch, you should complete the batch so that customers receive their receipts via SMS/email.
 
 All orders in a batch are marked as COMPLETED when the batch is completed.
 

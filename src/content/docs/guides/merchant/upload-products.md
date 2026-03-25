@@ -3,6 +3,8 @@ title: Upload your shop's products
 description: The first step to managing your Nuanom shop.
 ---
 
+<iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/f0GGhBnnJHo" title="How to upload products to your shop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Images
 
 First, you need your product's images. Investing a little time to make sure you have presentable images will improve the beauty of your listings. 
@@ -35,11 +37,11 @@ The AI will generate a name and description based on the first image you added.
 Variants are the variations a product can have in color and/or size.
 
 You need to add at least one variant. Each variant can have multiple choices.
-Example a 'Color' variant can have multiple colors as choices. 
+For example, a 'Color' variant can have multiple colors as choices.
 
 Add the necessary variants and choices for the product by tapping the ‘Add’ button at the top right of the ‘Variant’ section.
 
-![Product variants screen](../../../../assets//product-variants-screen.png)
+![Product variants screen](../../../../assets/product-variants-screen.png)
 
 ### Variant images
 
