@@ -14,6 +14,11 @@ export default defineConfig({
       title: "Nuanom Docs",
       social: [
         { icon: "email", label: "Support", href: "https://nuanom.com/support" },
+        { icon: "github", label: "GitHub", href: "https://github.com/nuanom" },
+        { icon: "tiktok", label: "TikTok", href: "https://www.tiktok.com/@nuanomghana" },
+        { icon: "youtube", label: "YouTube", href: "https://www.youtube.com/@nuanom" },
+        { icon: "twitter", label: "Twitter", href: "https://x.com/nuanomghana" },
+        { icon: "instagram", label: "Instagram", href: "https://www.instagram.com/nuanomghana/" },
       ],
       sidebar: [
         {
@@ -70,15 +75,32 @@ export default defineConfig({
 							link: '/guides/merchant/create-orders/'
 						},
             {
-              label: 'Managing POS devices',
-              link: '/guides/merchant/manage-pos-devices/'
+              label: 'WhatsApp AI Assistant',
+              link: '/guides/merchant/whatsapp-ai-assistant/'
             },
-            {
+             {
               label: 'Settlement',
               link: '/guides/merchant/settlement/'
             },
+            {
+              label: 'Managing POS devices',
+              link: '/guides/merchant/manage-pos-devices/'
+            },
 					],
 				},
+        {
+          label: "POS",
+          items: [
+            {
+              label: "Start here",
+              link: "/guides/pos/",
+            },
+            {
+              label: "Taking orders",
+              link: "/guides/pos/take-orders/"
+            }
+          ],
+        }
       ],
       customCss: ["./src/tailwind.css"],
     }),

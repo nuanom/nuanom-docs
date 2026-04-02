@@ -45,7 +45,7 @@ Add the necessary variants and choices for the product by tapping the ‘Add’ 
 
 ### Variant images
 
-Optionally, we can add images for each variant choice. This allows your customers to see
+Optionally, you can add images for each variant choice. This allows your customers to see
 images for each variation when they switch the choices. 
 
 Tap the image icon to upload variant images. 

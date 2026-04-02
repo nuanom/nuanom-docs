@@ -22,7 +22,7 @@ At any time, you can log out a POS device from the Nuanom app by going to ***Bus
 
 ## Taking orders with the Nuanom POS app
 
-Taking orders with the Nuanom POS app works exactly the same as creating orders with the Nuanom app. See [creating orders](/guides/merchant/create-orders/).
+Taking orders with the Nuanom POS app works exactly the same as creating orders with the Nuanom app. See [taking orders via POS](/guides/pos/take-orders/).
 
 
 ## Reconciling direct payments

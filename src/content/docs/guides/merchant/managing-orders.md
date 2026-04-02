@@ -15,7 +15,7 @@ Orders go through a number of stages:
 3. **PROCESSING**: The order is in a batch for processing.
 4. **COMPLETED**: The order has been packaged and dispatched/delivered. Customer receives receipt.
 5. **PICKED**: Delivery rider has picked the order and it is out for delivery.
-6. **DELIVERED**: Shop or delivery guy has confirmed delivery of the order.
+6. **DELIVERED**: Shop or delivery rider has confirmed delivery of the order.
 7. **CANCELED**: The order has been canceled.
 
 
@@ -53,7 +53,7 @@ You can create a batch of up to 100 orders.
 
 When you create a batch all orders in the batch are marked as PROCESSING. Packing slips are generated for all orders in the batch.
 
-Customers cannot cancel PROCESSING orders, but you can cancel them by searching for the order based on user's mobile/email.
+Customers cannot cancel PROCESSING orders, but you can cancel them by searching for the order using the customer's mobile number or email.
 
 Orders in batches or PROCESSING do not appear under ***Orders > To Deliver***. 
 
@@ -82,13 +82,7 @@ UNPAID or DRAFT orders are automatically canceled after 3 hours without payment.
 
 ## Batches
 
-Batches are a way to process multiple orders at the same time.
-
-You can create a batch of up to 100 orders.
-
-Batches allow you to easily delegate the packaging and dispatching of orders.
-
-Batches allow you to generate delivery labels and packing slips for multiple orders at the same time.
+Batches let you process up to 100 orders at the same time. They make it easy to delegate packaging and dispatching, and to generate delivery labels and packing slips in bulk.
 
 
 ### Creating a batch
@@ -100,7 +94,7 @@ A batch of up to 100 orders will be created and packing slips will be generated 
 These orders will be marked as PROCESSING and will be hidden from the ***Orders > To Deliver*** view.
 The only way to see these orders is to view packing slips or search for orders individually.
 
-You can cancel an order in a batch by searching for the order based on user's mobile/email.
+You can cancel an order in a batch by searching for the order using the customer's mobile number or email.
 When you cancel an order in a batch, the packing slips are regenerated to reflect the change.
 
 
