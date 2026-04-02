@@ -9,7 +9,7 @@ Customers sometimes reach out via DMs to make inquiries or purchases.
 
 The Nuanom app makes it easy to share the links to your product listings with your customers. 
 
-At the top right of the product details screen, there is an options icon you can use to copy, share or preview the product listing.
+At the top right of the product details screen, there is an options icon you can use to copy, share, or preview the product listing.
 
 ![Share link to products](../../../../assets/share-link-products.jpeg)
 

@@ -17,7 +17,7 @@ In the Nuanom app, go to **Business > Admin > Edit info > Square Logo**.
 
 ## About shop
 
-Your shop's about information is displayed on your apps' & website's about page, as well as the footer of your website.
+Your shop's about information is displayed on your apps' and website's about page, as well as the footer of your website.
 
 In the Nuanom app, go to **Business > Admin > Edit info > About**.
 
@@ -25,15 +25,11 @@ In the Nuanom app, go to **Business > Admin > Edit info > About**.
 
 ## Social & contact information
 
-Your social information is displayed on your storefront's contact page, as well as, the footer of your website.
+Your social information is displayed on your storefront's contact page, as well as the footer of your website.
 
 You can set social media links for Instagram, Facebook, TikTok, as well as your phone number.
 
 In the Nuanom app, go to **Business > Admin > Edit info > Social info**.
-
-
-
-
 
 
 
