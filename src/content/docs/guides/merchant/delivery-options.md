@@ -9,7 +9,7 @@ The default delivery options are just meant as an example. Modify to suit your n
 
 You can add, remove, and edit delivery options as needed, but you must have at least one delivery option.
 
-In the Nuanom app, go to **Business > Admin > Delivery Options**.
+In the Nuanom app, go to **Business > Settings > Delivery Options**.
 
 Set prices for each delivery option. If there is no charge for a delivery option, set its price to 0.
 
