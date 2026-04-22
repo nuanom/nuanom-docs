@@ -100,6 +100,19 @@ export default defineConfig({
               link: "/guides/pos/take-orders/"
             }
           ],
+        },
+        {
+          label: 'Carrier',
+          items: [
+            {
+              label: 'Start here',
+              link: '/guides/carrier/'
+            },
+            {
+              label: 'Managing deliveries',
+              link: '/guides/carrier/deliveries/'
+            },
+          ],
         }
       ],
       customCss: ["./src/tailwind.css"],
