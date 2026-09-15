@@ -11,12 +11,14 @@ description: Managing the lifecycle of orders.
 Orders go through a number of stages:
 
 1. **DRAFT/UNPAID**: The order is created, but the customer has not paid for it.
-2. **NEW**: The customer has paid for the order.
-3. **PROCESSING**: The order is in a batch for processing.
-4. **COMPLETED**: The order has been packaged and dispatched/delivered. Customer receives receipt.
-5. **PICKED**: Delivery rider has picked the order and it is out for delivery.
-6. **DELIVERED**: Shop or delivery rider has confirmed delivery of the order.
-7. **CANCELED**: The order has been canceled.
+2. **NEEDS-APPROVAL**: Paid order is created by staff with Nuanom POS, but needs admin approval.
+3. **PREPARING**: In-store order waiting to be delivered. Confirm delivered once customer has been satisfied.
+4. **NEW**: The customer has paid for the order.
+5. **PROCESSING**: The order is in a batch for processing.
+6. **COMPLETED**: The order has been packaged and dispatched/delivered. Customer receives receipt.
+7. **PICKED**: Delivery rider has picked the order and it is out for delivery.
+8. **DELIVERED**: Shop or delivery rider has confirmed delivery of the order.
+9. **CANCELED**: The order has been canceled.
 
 
 ### DRAFT
@@ -35,6 +37,20 @@ When you [manually create an order](/guides/merchant/create-orders/), the order 
 UNPAID orders appear in the Nuanom app under ***Orders > POS***.
 
 Customer has 3 hours to pay for the order. If payment is not made within this time, the order is automatically canceled.
+
+
+### NEEDS-APPROVAL
+
+When directly paid order without delivery (in-store order) is created by Nuanom POS user without *Orders Manager* role. 
+
+A Nuanom POS user with *Orders Manager* role or Nuanom user needs to approve the order to move it to the next stage **PREPARING**.
+
+
+### PREPARING
+
+In-store orders waiting for delivery confirmation.
+
+A Nuanom POS user with *Orders Manager* role or Nuanom user needs to confirm delivery to mark it **DELIVERED**.
 
 
 ### NEW
