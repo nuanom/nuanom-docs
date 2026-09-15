@@ -9,10 +9,10 @@ There is also a dedicated Nuanom POS app for sales assistants. See [managing POS
 To do this, you create orders for your customers. Nuanom sends an SMS/email to the customer with a link.
 
 There are four types of orders you will create with Nuanom.
-1. In-store orders without payment. Meaning the customer pays cash or through another direct payment method. Nuanom just sends a receipt and completes the order immediately after it's created.
-2. In-store orders with required payment. The customer pays with payment link sent via SMS/email. The customer can also scan the QR code generated for the order to make payment. After payment the customer gets their receipt.
-3. Delivery orders without payment. Meaning the customer pays cash or through another direct payment method. Nuanom just sends a link for the order. Order is marked as NEW for delivery processing.
-4. Delivery orders with required payment. The customer pays with payment link sent via SMS/email. The customer can also scan the QR code generated for the order to make payment. After payment the order is marked as NEW for delivery processing.
+1. In-store orders without payment. Meaning the customer pays cash or through another direct payment method.
+2. In-store orders with required payment. The customer pays with payment link sent via SMS/email. The customer can also scan the QR code generated for the order to make payment.
+3. Delivery orders without payment. Meaning the customer pays cash or through another direct payment method.
+4. Delivery orders with required payment. The customer pays with payment link sent via SMS/email. The customer can also scan the QR code generated for the order to make payment.
 
 Use the '+' button at the top right of the Orders tab to go to the create order screen.
 
@@ -24,11 +24,11 @@ You can also use the 'Collect payment' option instead of adding products to the 
 
 You can discount an order by an amount, if necessary. Use the 'Discount' option for that.
 
-Set the delivery option if necessary. If a delivery option is selected, the order will be marked as NEW and moved to the __To Deliver__ section for further processing.
+Set the delivery option if necessary. If a delivery option is selected, the order will be moved to the __To Deliver__ section for further processing. If not, it is moved to the __In Store__ section.
 
-For payments that will not be handled by Nuanom, you can toggle __PAID DIRECT__ on (__PAID CASH__ in order versions). When this is done the customer will just be sent a link with a receipt and the order will be marked COMPLETED.
+For payments that will not be handled by Nuanom, you can toggle __PAID DIRECT__ on. 
 
-Leaving __PAID DIRECT__ off will send the customer a link for payment. Once payment has been made you will get a notification and the order will be marked as COMPLETED.
+Leaving __PAID DIRECT__ off will send the customer a link for payment. Once payment has been made you will get a notification.
 
 
 ![Order POS section](../../../../assets/orders-pos.png)
