@@ -24,6 +24,8 @@ The AI assistant will respond to enquiries and take orders without needing your 
 
 Open the conversation and you will see a summary as well as the full conversation thread. Use the 'Resolve' button at the top right of the conversation screen to tell the AI how you want it to respond. The conversation will then be moved to the 'Ongoing' section for further processing.
 
+You can also reply directly to conversations before you resolve them. You do not need to open your WhatsApp at all. Every view in the WhatsApp AI is realtime.
+
 ### Ongoing conversations
 
 All active conversations show up here. You do not need to attend to these conversations — it's just a simple way to see what the AI is up to. You can also open your WhatsApp app to view conversations directly.

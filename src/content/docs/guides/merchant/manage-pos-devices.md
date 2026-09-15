@@ -5,14 +5,26 @@ description: Set up and manage POS devices.
 
 ## Set up POS devices
 
-Nuanom replaces bulky old-school POS devices with a simple app that can be set up for as many shop attendants as necessary.
+Nuanom replaces bulky old-school POS devices with a simple app that can be set up for as many staff as necessary.
 
 Create an account for each POS device by going to ***Business > POS*** in the Nuanom app. You will be required to give the POS a name.
-You can use generic names like 'Counter 1', 'Counter 2'... or use specific names for the individuals using the POS apps; 'Afia', 'Kofi'...
+We recommend using staff names for the individuals using the POS apps; 'Afia', 'Kofi'...
 
-Shop attendants should download the __Nuanom POS__ app onto their devices. It is available on [Android](https://play.google.com/store/apps/details?id=com.nuanom.apps.pos) and [iOS](https://apps.apple.com/gh/app/nuanom-pos/id6754317027).
+Staff should download the __Nuanom POS__ app onto their devices. It is available on [Android](https://play.google.com/store/apps/details?id=com.nuanom.apps.pos) and [iOS](https://apps.apple.com/gh/app/nuanom-pos/id6754317027).
 
 In the Nuanom app, go to ***Business > POS***, tap on the name of each device, and use the __Log In POS__ option to generate a code to log in to the Nuanom POS app. Repeat for all devices.
+
+## User Roles
+
+Each POS user can be given as much or as little access as necessary. There are five (5) roles:
+
+- __Order Viewer__: Can view all orders for the shop.
+- __Orders Manager__: Can view and perform all actions needed to manage orders.
+- __Products Viewer__: Can view all products for the shop.
+- __Products Manager__: Can view, create and update products.
+- __WhatsApp AI Manager__: Has access to the the WhatsApp AI section to view, respond and resolve conversations.
+
+Roles can be changed when creating or updating a POS.
 
 
 ## Log out a POS device
