@@ -3,6 +3,8 @@ title: Creating orders
 description: Manually create orders and take payments in person or via WhatsApp.
 ---
 
+<iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/PR1IrD-qcA0" title="Creating orders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Nuanom allows you to easily receive orders via your website or mobile apps. However, you can also use Nuanom as a POS to record orders and take payments in person or via WhatsApp. 
 There is also a dedicated Nuanom POS app for sales assistants. See [managing POS devices](/guides/merchant/manage-pos-devices/).
 
