@@ -3,7 +3,7 @@ title: Managing orders
 description: Managing the lifecycle of orders.
 ---
 
-![Order POS section](../../../../assets/orders-to-delivery.jpeg)
+<iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/PR1IrD-qcA0" title="Managing orders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Order lifecycle
